@@ -1,0 +1,23 @@
+{
+  "name": "diplom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evillgranny/JS-diplom.git"
+  },
+  "keywords": [
+    "js",
+    "JavaScript"
+  ],
+  "author": "Mark Martynenka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evillgranny/JS-diplom/issues"
+  },
+  "homepage": "https://github.com/Evillgranny/JS-diplom#readme"
+}
